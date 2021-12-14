@@ -10,6 +10,7 @@ Data science topics and tools:<br>
 -Data preparation<br>
 -Stata<br>
 -Descriptive statistics<br>
+-Data visualisation<br>
 -Linear regression
 
 This project is my bachelor’s thesis. The goal is to examine the impact of COVID-19 pandemic on household
