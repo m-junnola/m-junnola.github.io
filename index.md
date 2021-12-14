@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Impact of pandemic on household mortgages and consumer loans: Case COVID-19](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1: Impact of pandemic on household mortgages and consumer loans: Case COVID-19](/sample_page)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
