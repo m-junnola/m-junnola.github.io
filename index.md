@@ -28,7 +28,7 @@ fixed effect regression was chosen. According to fixed effect regression there i
 significant positive correlation between mortgages and COVID-19 infections. The correlation
 between consumer loans and infections as well as hospitalized patients is negative but statistically insignificant.
 <br><br>
-Full report can be found here: [https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y]
+Full report can be found [here](https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
