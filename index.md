@@ -5,6 +5,7 @@
 ### Category Name 1 
 
 [Project 1: Impact of pandemic on household mortgages and consumer loans: Case COVID-19](/sample_page)
+<br><br>
 Full report can be found here: https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y
 
 ---
