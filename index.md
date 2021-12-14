@@ -4,9 +4,7 @@
 
 ### Project 1: Impact of pandemic on household mortgages and consumer loans: Case COVID-19
 
-
-<br><br>
-This bachelor’s thesis goal is to examine the impact of COVID-19 pandemic on household
+This project is my bachelor’s thesis. The goal is to examine the impact of COVID-19 pandemic on household
 mortgages and consumer loans during the first year of the pandemic. The study aims to find
 whether the amount of household loans in Euro area countries are dependent on the number
 of COVID-19 infections and hospitalized COVID-19 patients. Correlation between these variables 
