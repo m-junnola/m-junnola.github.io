@@ -5,11 +5,11 @@
 ### Project 1: Impact of pandemic on household mortgages and consumer loans: Case COVID-19
 
 Data science topics and tools:
--Python
--Open data
--Data preparation
--Stata
--Descriptive statistics
+-Python<br><br>
+-Open data<br><br>
+-Data preparation<br><br>
+-Stata<br><br>
+-Descriptive statistics<br><br>
 -Linear regression
 
 This project is my bachelor’s thesis. The goal is to examine the impact of COVID-19 pandemic on household
