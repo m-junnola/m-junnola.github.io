@@ -35,9 +35,9 @@ Full report can be found from [here.](https://lutpub.lut.fi/bitstream/handle/100
 ### Project 2: CaseCalculator for Nordea Bank
 
 Tools:<br>
--Excel
--VBA
--Power Query
+-Excel<br>
+-VBA<br>
+-Power Query<br>
 
 In this project I created an Excel program which calculates the number of non-collateralized loan applications
 according to the type of the loan and by the customer segment. Previously the number of loan applications
