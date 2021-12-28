@@ -32,9 +32,20 @@ between consumer loans and infections as well as hospitalized patients is negati
 Full report can be found from [here.](https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Project 2: CaseCalculator for Nordea Bank
 
+Tools:<br>
+-Excel
+-VBA
+-Power Query
+
+In this project I created an Excel program which calculates the number of non-collateralized loan applications
+according to the type of the loan and by the customer segment. Previously the number of loan applications
+were counted manually, which was very unefficient. With the help of this program our team was able to eliminate
+an unnecessary stage in the working process.
+   
+
+Tools
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
