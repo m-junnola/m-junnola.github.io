@@ -4,7 +4,7 @@
 
 ### Project 1: Impact of pandemic on household mortgages and consumer loans: Case COVID-19
 
-Data science topics and tools:<br>
+Tools and data science tasks:<br>
 -Python<br>
 -Open data<br>
 -Data preparation<br>
@@ -32,6 +32,35 @@ between consumer loans and infections as well as hospitalized patients is negati
 Full report can be found from [here.](https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y)
 
 ---
+### Project 2: Linear regression with R 
+
+Tools and data science tasks:<br>
+-R<br>
+-RStudio<br>
+-Data preparation<br>
+-Descriptive statistics<br>
+-Data visualisation<br>
+-Linear Regression<br>
+
+This project was part of the final assignment of Free Analytics Environment R course.
+In this assignment I obtained a dataset of historic data containing patient information,
+including the patients’ blood glucose level, which can help to determine whether a patient may develop
+(or have) certain illnesses. Thus, the goal was to use linear regression to determine what factors may
+be linked to the blood glucose level in order to help doctors and patients to determine factors potentially
+influencing the glucose level and to adjust their recommendations and treatment options accordingly. In
+particular, my job was to make sense of the dataset from different perspectives and to build a regression
+model that attempts to explain the blood glucose level of the patients.
+
+The aim is to predict the blood glucose level of patients with the given features/ variables. The blood
+glucose level of patients is represented by the variable Glucose, which is the dependent variable, and the
+rest of the variables provide information to predict the value of the dependent variable.
+
+At first I prepared the data, making sure that there are no missing or corrupted values. Then exploratory data analysis was performed followed by correlation analysis between all variables. Explanatory variables with correlation over 0.8 were removed to minimize multicollinearity in the model. Linear regression model was implemented with remaining variables. Statistically unsignificant variables were deleted from the model one by one. Deleting these variables had low effect on the R squared value. Final model's results showed that there is a strong correlation between high glucose levels and diabetes, and glucose levels can be lowered by consuming less sugar and consuming more foods with potassium. 
+
+---
+### Project 3: Clustering with R
+
+---
 ### Project 2: CaseCalculator for Nordea Bank
 
 Tools:<br>
@@ -43,10 +72,11 @@ In this project I created an Excel program which calculates the number of non-co
 according to the type of the loan and by the customer segment. Previously the number of loan applications
 were counted manually, which was very unefficient. With the help of this program our team was able to eliminate
 an unnecessary stage in the working process.
-   
+
+---   
 
 Tools
----
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
