@@ -84,7 +84,7 @@ Tools:<br>
 In this project I created an Excel program which calculates the number of non-collateralized loan applications
 according to the type of the loan and by the customer segment. Previously the number of loan applications
 were counted manually, which was very unefficient. With the help of this program our team was able to eliminate
-an unnecessary stage in the working process.
+an unnecessary stage in the working process.<br><br>
 
 ---   
 
