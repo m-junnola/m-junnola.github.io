@@ -78,9 +78,10 @@ My task was to find similar types of users in terms of their usage behavior of t
 what are the characteristics of different groups and create a plan how to improve the business to benefit from this knowledge.<br>
 
 At first dataset was prepared and exploratory data analysis performed to get a better understanding of the data. Correlation analysis was conducted to see the relationships 
-between variables. To indentify clusters from the dataset k-means algorithm was used with Elbow method, Silhouette method,  Calinski-Harabasz index, and Gap statistic method. As 
-a result two out of four methods suggested three clusters to be the optimal number of clusters. All three clusters had their distinctive attributes. Based on the characterics of 
-each cluster a plan was created to increase the probability of a session ending into a purchase.<br><br>
+between variables. The scale and range of values of each variable varied considerably, so the data was normalized before performing clustering. To indentify clusters from the 
+dataset k-means algorithm was used with Elbow method, Silhouette method,  Calinski-Harabasz index, and Gap statistic method. As 
+a result two out of four methods suggested three clusters to be the optimal number of clusters. All three clusters had their distinctive attributes. After clustering was 
+conducted Based on the characterics of each cluster a plan was created to increase the probability of a session ending into a purchase.<br><br>
 
 ---
 ### Project 4: CaseCalculator for Nordea Bank
