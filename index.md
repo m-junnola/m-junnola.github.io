@@ -6,9 +6,9 @@
 
 Tools and data science tasks:<br>
 -Python<br>
+-Stata<br>
 -Open data<br>
 -Data preparation<br>
--Stata<br>
 -Descriptive statistics<br>
 -Data visualisation<br>
 -Linear regression
@@ -29,7 +29,7 @@ fixed effect regression was chosen. According to fixed effect regression there i
 significant positive correlation between mortgages and COVID-19 infections. The correlation
 between consumer loans and infections as well as hospitalized patients is negative but statistically insignificant.
 <br><br>
-Full report can be found from [here.](https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y)
+Full report in Finnish can be found from [here.](https://lutpub.lut.fi/bitstream/handle/10024/162734/Kandidaatintutkielma_Markus_Junnola.pdf?sequence=1&isAllowed=y)
 
 ---
 ### Project 2: Linear regression with R 
@@ -55,10 +55,25 @@ The aim is to predict the blood glucose level of patients with the given feature
 glucose level of patients is represented by the variable Glucose, which is the dependent variable, and the
 rest of the variables provide information to predict the value of the dependent variable.
 
-At first I prepared the data, making sure that there are no missing or corrupted values. Then exploratory data analysis was performed followed by correlation analysis between all variables. Explanatory variables with correlation over 0.8 were removed to minimize multicollinearity in the model. Linear regression model was implemented with remaining variables. Statistically unsignificant variables were deleted from the model one by one. Deleting these variables had low effect on the R squared value. Final model's results showed that there is a strong correlation between high glucose levels and diabetes, and glucose levels can be lowered by consuming less sugar and consuming more foods with potassium. 
+At first I prepared the data, making sure that there are no missing or corrupted values and all variables are in the right data type. Then exploratory data analysis was performed followed by correlation analysis between all variables. Explanatory variables with correlation over 0.8 were removed to minimize multicollinearity in the model. Linear regression model was implemented with remaining variables. Statistically unsignificant variables were deleted from the model one by one. Deleting these variables had low effect on the R squared value. Final model's results showed that there is a strong correlation between high glucose levels and diabetes, and glucose levels can be lowered by consuming less sugar and consuming more foods with potassium. 
 
 ---
 ### Project 3: Clustering with R
+
+Tools and data science tasks:<br>
+-R<br>
+-RStudio<br>
+-Data preparation<br>
+-Descriptive statistics<br>
+-Data visualisation<br>
+-Clustering with k-means algorithm
+
+In this exercise I obtained a dataset containing information on customers 
+and how they used the website of the e-commerce platform. Each row of the dataset represented a session of a unique customer on the website of the e-commerce platform. My task was to find similar types of users in terms of their usage behavior of the website and group them (via clustering). Moreover, the goal was to try to understand what are the characteristics of different groups and create a plan how to improve the business to benefit from this knowledge.
+
+At first dataset was prepared and exploratory data analysis performed to get a better understanding of the data. Correlation analysis was conducted to see the relationships between variables. As a result three clusters were identified from the dataset. This was done by using k-means algorithm with Elbow method, Silhouette method,  Calinski-Harabasz index, and Gap statistic method. Two out of four   
+
+
 
 ---
 ### Project 2: CaseCalculator for Nordea Bank
