@@ -55,7 +55,7 @@ The aim is to predict the blood glucose level of patients with the given feature
 glucose level of patients is represented by the variable Glucose, which is the dependent variable, and the
 rest of the variables provide information to predict the value of the dependent variable.
 
-At first I prepared the data, making sure that there are no missing or corrupted values and all variables are in the right data type. Then exploratory data analysis was performed followed by correlation analysis between all variables. Explanatory variables with correlation over 0.8 were removed to minimize multicollinearity in the model. Linear regression model was implemented with remaining variables. Statistically unsignificant variables were deleted from the model one by one. Deleting these variables had low effect on the R squared value. Final model's results showed that there is a strong correlation between high glucose levels and diabetes, and glucose levels can be lowered by consuming less sugar and consuming more foods with potassium. 
+At first I prepared the data, making sure that there are no missing or corrupted values and all variables are in the right data type. Then exploratory data analysis was performed followed by correlation analysis between all variables. Explanatory variables with correlation over 0.8 were removed to minimize multicollinearity in the model. Linear regression model was implemented with remaining variables. Statistically unsignificant variables were deleted from the model one by one. Deleting these variables had low effect on the R squared value. Final model's results showed that there is a strong correlation between high glucose levels and diabetes, and glucose levels can be lowered by consuming less sugar and consuming more foods with potassium.<br><br>
 
 ---
 ### Project 3: Clustering with R
@@ -69,14 +69,12 @@ Tools and data science tasks:<br>
 -Clustering with k-means algorithm
 
 In this exercise I obtained a dataset containing information on customers 
-and how they used the website of the e-commerce platform. Each row of the dataset represented a session of a unique customer on the website of the e-commerce platform. My task was to find similar types of users in terms of their usage behavior of the website and group them (via clustering). Moreover, the goal was to try to understand what are the characteristics of different groups and create a plan how to improve the business to benefit from this knowledge.
+and how they used the website of the e-commerce platform. Each row of the dataset represented a session of a unique customer on the website of the e-commerce platform. My task was to find similar types of users in terms of their usage behavior of the website and group them (via clustering). Moreover, the goal was to try to understand what are the characteristics of different groups and create a plan how to improve the business to benefit from this knowledge.<br>
 
-At first dataset was prepared and exploratory data analysis performed to get a better understanding of the data. Correlation analysis was conducted to see the relationships between variables. As a result three clusters were identified from the dataset. This was done by using k-means algorithm with Elbow method, Silhouette method,  Calinski-Harabasz index, and Gap statistic method. Two out of four   
-
-
+At first dataset was prepared and exploratory data analysis performed to get a better understanding of the data. Correlation analysis was conducted to see the relationships between variables. To indentify clusters from the dataset k-means algorithm was used with Elbow method, Silhouette method,  Calinski-Harabasz index, and Gap statistic method. As a result two out of four methods suggested three clusters to be the optimal number of clusters. All three clusters had their distinctive attributes. Based on the characterics of each cluster a plan was created to increase the probability of a session ending into a purchase.<br><br>
 
 ---
-### Project 2: CaseCalculator for Nordea Bank
+### Project 4: CaseCalculator for Nordea Bank
 
 Tools:<br>
 -Excel<br>
@@ -90,6 +88,7 @@ an unnecessary stage in the working process.
 
 ---   
 
+<!--
 Tools
 
 [Project 3 Title](http://example.com/)
@@ -106,8 +105,4 @@ Tools
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
+-->
